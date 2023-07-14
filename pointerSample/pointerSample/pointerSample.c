@@ -1,7 +1,7 @@
 // #include <iostream>	// C++
 #include <stdio.h>
 #include <malloc.h>
-char buf[100];
+char buf[1000];
 void MemoryDump(int start, int length);		// 함수의 proto_type | 함수의 원형
 int main(int argc, char *argv[])		// >PointerSample 10000 500 : //Comand Line 명령어
 // 10000 : Start memory 주소
