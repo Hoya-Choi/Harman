@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CppTest5-CallByReference.cpp">
+    <ClCompile Include="CppTest6-CallByPointer.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

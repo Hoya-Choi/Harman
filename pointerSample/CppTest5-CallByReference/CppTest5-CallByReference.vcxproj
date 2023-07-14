@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{2c792693-b954-40c9-b295-b72a03705aad}</ProjectGuid>
-    <RootNamespace>ConsoleApplication2</RootNamespace>
+    <ProjectGuid>{dd43add2-e834-4aba-a085-1b317483eb20}</ProjectGuid>
+    <RootNamespace>CppTest5CallByReference</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>CppTest5-CallByReference</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
